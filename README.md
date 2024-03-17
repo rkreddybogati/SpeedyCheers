@@ -1,5 +1,13 @@
-# SpeedyCheers
-For a totally not-fake-at-all reason, a Technical Product Manager (TPM) brings to you the proposal to build a product called “SpeedyCheers”.
+<html>
+<header>
+  <title># SpeedyCheers</title>
+  
+</header>
+<body> 
+
+
+<h3>
+  For a totally not-fake-at-all reason, a Technical Product Manager (TPM) brings to you the proposal to build a product called “SpeedyCheers”.
 Speedy Cheers is an Uber equivalent, except that rather than getting a ride, by “Requesting a Cheer” a SpeedyCheer driver will come to your
 location, and “cheer you on” on whatever task you are doing. If you are telling a joke, they’ll come to laugh. If you are lifting weights, they’ll pump
 you up. If giving a speech, they’ll clap louder than anyone else. You feel great, they feel great (cause they get paid); it’s a win-win!
@@ -19,3 +27,16 @@ Explain your choices behind your technology and programming language selection a
 building.
 You can write as much as you like, as long as it is clear We do not want to limit your creativity; but definitely more is not always better, it all
 depends on what you are elaborating on.
+  
+</h3>
+
+
+</body>
+
+
+</html>
+
+
+
+
+
