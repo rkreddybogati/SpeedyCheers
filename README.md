@@ -20,3 +20,8 @@ You can write as much as you like, as long as it is clear We do not want to limi
 depends on what you are elaborating on.
 
 
+
+# Solution:
+
+![SpeedyCheers-Page-5](https://github.com/rkreddybogati/SpeedyCheers/assets/7385088/c22dda1c-8530-4bd1-aad4-8863cb75a346)
+
