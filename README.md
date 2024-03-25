@@ -23,5 +23,6 @@ depends on what you are elaborating on.
 
 # Solution:
 
-![SpeedyCheers-Page-5](https://github.com/rkreddybogati/SpeedyCheers/assets/7385088/c22dda1c-8530-4bd1-aad4-8863cb75a346)
+![SpeedyCheers Architecture](https://github.com/rkreddybogati/SpeedyCheers/assets/7385088/469613ea-d99f-49f9-af32-7e972af29e98)
+
 
