@@ -21,7 +21,7 @@ depends on what you are elaborating on.
 
 
 
-# Solution:
+# Architecture Diagram: 
 
 ![SpeedyCheers Architecture](https://github.com/rkreddybogati/SpeedyCheers/assets/7385088/469613ea-d99f-49f9-af32-7e972af29e98)
 
