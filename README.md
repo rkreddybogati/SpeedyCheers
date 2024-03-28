@@ -20,15 +20,16 @@ You can write as much as you like, as long as it is clear We do not want to limi
 depends on what you are elaborating on.
 
 
+# Solution:
 
-# 1. Architecture Diagram: 
+## 1. Architecture Diagram: 
 
 ![SpeedyCheers Architecture](https://github.com/rkreddybogati/SpeedyCheers/assets/7385088/469613ea-d99f-49f9-af32-7e972af29e98)
 
-# 2. SpeedyCheers-Architecture
+## 2. SpeedyCheers-Architecture
 https://github.com/rkreddybogati/SpeedyCheers/wiki/SpeedyCheers-Architecture 
 
-# 3. Technology Choices
+## 3. Technology Choices
 https://github.com/rkreddybogati/SpeedyCheers/wiki/Technology-Choices 
 
 
